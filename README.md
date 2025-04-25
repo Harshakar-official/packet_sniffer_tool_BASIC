@@ -6,7 +6,6 @@ Linux:
 sudo pip3 install scapy
 
 ```
-Linux:
 ```
 sudo pip3 install termcolor
 ```
