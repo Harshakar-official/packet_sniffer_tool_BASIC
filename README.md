@@ -1,8 +1,8 @@
 # packet_sniffer_tool_BASIC
 A basic Packet Sniffer tool which shows coloured output for better understanding.
 
-# REQUIREMENTS:
+REQUIREMENTS:
 
-sudo pip3 install scapy
-sudo pip3 install termcolor
+''' sudo pip3 install scapy '''
+''' sudo pip3 install termcolor '''
 
